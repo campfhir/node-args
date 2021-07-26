@@ -1,6 +1,6 @@
 {
   "name": "@campfhir/node-args",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Parse Node CLI Arguments into key-valued object",
   "main": "lib/index.js",
   "scripts": {
