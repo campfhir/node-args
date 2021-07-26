@@ -8,7 +8,11 @@
     "prepare": "npm run build",
     "test": "nyc mocha"
   },
-  "keywords": [],
+  "keywords": [
+    "argv",
+    "parse",
+    "nodejs"
+  ],
   "author": "Scott Eremia-Roden",
   "license": "ISC",
   "dependencies": {
